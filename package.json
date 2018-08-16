@@ -1,0 +1,18 @@
+{
+  "name": "real_estate",
+  "version": "1.0.0",
+  "description": "first re website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none yet"
+  },
+  "author": "tim mchale",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
